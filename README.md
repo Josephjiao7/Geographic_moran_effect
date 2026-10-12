@@ -35,6 +35,7 @@ The analyses can be reproduced by running the Jupyter notebooks in this reposito
 ```text
 GME_simulation.ipynb
 Case_study_GME.ipynb
+```
 
 
 ## Citation
