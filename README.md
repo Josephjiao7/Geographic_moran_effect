@@ -42,4 +42,4 @@ Case_study_GME.ipynb
 
 If you use this code or the Geographic Moran Effect framework, please cite:
 
-> Jiao, Z., Yao, X., & Thill, J.-C. (2026). The Geographic Moran Effect: Theory, Methods, and Interpretation. *Geographical Analysis*. Forthcoming.
+> Jiao, Z., Yao, X., & Thill, J.-C. (2026). The Geographic Moran Effect: Theory, Methods, and Interpretation. *Geographical Analysis*. https://doi.org/10.1111/gean.70072.
